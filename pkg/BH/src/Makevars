@@ -1,0 +1,24 @@
+OBJECTS=\
+../inst/include/libs/system/src/error_code.o \
+../inst/include/libs/regex/src/posix_api.o \
+../inst/include/libs/regex/src/fileiter.o \
+../inst/include/libs/regex/src/regex_raw_buffer.o \
+../inst/include/libs/regex/src/cregex.o \
+../inst/include/libs/regex/src/regex_debug.o \
+../inst/include/libs/regex/src/instances.o \
+../inst/include/libs/regex/src/icu.o \
+../inst/include/libs/regex/src/usinstances.o \
+../inst/include/libs/regex/src/regex.o \
+../inst/include/libs/regex/src/wide_posix_api.o \
+../inst/include/libs/regex/src/regex_traits_defaults.o \
+../inst/include/libs/regex/src/winstances.o \
+../inst/include/libs/regex/src/wc_regex_traits.o \
+../inst/include/libs/regex/src/c_regex_traits.o \
+../inst/include/libs/regex/src/cpp_regex_traits.o \
+../inst/include/libs/regex/src/static_mutex.o \
+../inst/include/libs/regex/src/w32_regex_traits.o \
+../inst/include/libs/iostreams/src/zlib.o \
+../inst/include/libs/thread/src/pthread/once.o \
+../inst/include/libs/filesystem/src/operations.o 
+
+PKG_CPPFLAGS=-I ../inst/include

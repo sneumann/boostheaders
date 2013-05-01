@@ -14,7 +14,7 @@ Boost provides free peer-reviewed portable C++ source
 \tabular{ll}{
 Package: \tab BH\cr
 Type: \tab Package\cr
-Version: \tab 1.51.0-0\cr
+Version: \tab 1.43.0-0\cr
 Date: \tab 2013-01-29\cr
 License: \tab BSL-1.0\cr
 }

@@ -1,7 +1,7 @@
 Package: BH
 Type: Package
 Title: The Boost C++ Libraries
-Version: 1.51.0-0
+Version: 1.43.0-0
 Date: 2013-01-29
 Author: John W. Emerson, Michael J. Kane, Dirk Eddelbuettel, JJ Allaire, and Romain Francois
 Maintainer: Jay Emerson <john.emerson@yale.edu>
